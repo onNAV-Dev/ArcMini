@@ -1,4 +1,4 @@
-# Nav Mini (Ark Test Branch)
+# Nav Mini (Arc Test Branch)
 
 1. `pod install`
 2. Open the Xcode workspace -> the `Pods` project -> the `Upsurge` target, `Build Settings`, change the `Swift Language Version` to 4.2.
