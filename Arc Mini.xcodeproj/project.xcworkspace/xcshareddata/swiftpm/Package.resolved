@@ -1,4 +1,5 @@
 {
+  "originHash" : "96f21f709f533dd974d3f77f32751f8e509b2db04d5f238a797821642c4f9a40",
   "pins" : [
     {
       "identity" : "aexml",
@@ -23,8 +24,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/groue/GRDB.swift.git",
       "state" : {
-        "revision" : "dd7e7f39e8e4d7a22d258d9809a882f914690b01",
-        "version" : "5.26.1"
+        "revision" : "1cd6c7cbffa7ecac14a8a7c0f27d5c3e7c35c87e",
+        "version" : "6.29.0"
       }
     },
     {
@@ -42,7 +43,7 @@
       "location" : "https://github.com/sobri909/LocoKit.git",
       "state" : {
         "branch" : "core-ml",
-        "revision" : "398059fc096abd03b20d387d26660edbacb34306"
+        "revision" : "45930ed0ecc1fae326dc5194dd518db6f714a55e"
       }
     },
     {
@@ -59,8 +60,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/apple/swift-log",
       "state" : {
-        "revision" : "e97a6fcb1ab07462881ac165fdbb37f067e205d5",
-        "version" : "1.5.4"
+        "revision" : "9cb486020ebf03bfa5b5df985387a14a98744537",
+        "version" : "1.6.1"
       }
     },
     {
@@ -82,15 +83,6 @@
       }
     },
     {
-      "identity" : "swiftui-introspect",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/timbersoftware/SwiftUI-Introspect.git",
-      "state" : {
-        "branch" : "master",
-        "revision" : "e93995cb75170a18113ddf1e3cf0d0668c33c8b2"
-      }
-    },
-    {
       "identity" : "upsurge",
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/alejandro-isaza/Upsurge.git",
@@ -100,5 +92,5 @@
       }
     }
   ],
-  "version" : 2
+  "version" : 3
 }
